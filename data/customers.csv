@@ -1,0 +1,171 @@
+customer_id,customer_name,loyalty_tier,signup_date,city,region,customer_segment,acquisition_channel
+2001,Lena Meyer,Bronze,2022-05-04,Munich,South,Consumer,Paid Search
+2002,Jonas Schulz,Bronze,2022-11-29,Cologne,West,Consumer,Social
+2003,Mia Weber,Silver,2024-01-24,Frankfurt,West,Enterprise,Social
+2004,Noah Braun,Platinum,2023-05-19,Leipzig,East,Consumer,Paid Search
+2005,Anna Becker,Platinum,2024-09-06,Munich,South,Enterprise,Walk-in
+2006,Finn Kruger,Gold,2025-01-01,Stuttgart,South,SmallBusiness,Social
+2007,Emma Wagner,Bronze,2024-11-10,Bremen,North,SmallBusiness,Organic
+2008,Ben Schmidt,Silver,2023-12-27,Munich,South,SmallBusiness,Walk-in
+2009,Sophia Koch,Bronze,2024-11-11,Berlin,North,Consumer,Social
+2010,Paul Fischer,Gold,2024-08-06,Hamburg,North,Consumer,Paid Search
+2011,Lea Richter,Silver,2022-04-19,Hamburg,North,Consumer,Referral
+2012,Luis Hoffmann,Bronze,2024-04-11,Munich,South,Consumer,Paid Search
+2013,Eva Meyer,Silver,2024-05-16,Bremen,North,SmallBusiness,Social
+2014,Max Schulz,Platinum,2023-11-08,Cologne,West,SmallBusiness,Referral
+2015,Nora Weber,Silver,2025-04-13,Dusseldorf,West,Consumer,Walk-in
+2016,Felix Braun,Bronze,2024-08-11,Munich,South,Consumer,Social
+2017,Lara Becker,Silver,2024-04-28,Berlin,North,Consumer,Referral
+2018,Elias Kruger,Silver,2022-01-01,Stuttgart,South,SmallBusiness,Social
+2019,Hannah Wagner,Gold,2022-11-22,Dusseldorf,West,Enterprise,Walk-in
+2020,Leon Schmidt,Bronze,2025-07-21,Dresden,East,Consumer,Organic
+2021,Marie Koch,Gold,2023-09-09,Dusseldorf,West,SmallBusiness,Paid Search
+2022,Theo Fischer,Silver,2023-07-07,Leipzig,East,Consumer,Paid Search
+2023,Amira Richter,Silver,2024-01-07,Munich,South,Enterprise,Paid Search
+2024,David Hoffmann,Bronze,2023-10-19,Bremen,North,SmallBusiness,Paid Search
+2025,Laura Meyer,Silver,2025-06-26,Berlin,North,SmallBusiness,Referral
+2026,Oskar Schulz,Silver,2025-04-07,Frankfurt,West,Consumer,Social
+2027,Selina Weber,Gold,2022-02-09,Stuttgart,South,Enterprise,Organic
+2028,Emil Braun,Platinum,2024-10-02,Hamburg,North,Enterprise,Social
+2029,Clara Becker,Silver,2022-07-11,Leipzig,East,Enterprise,Walk-in
+2030,Adrian Kruger,Bronze,2024-04-02,Dusseldorf,West,SmallBusiness,Walk-in
+2031,Lena Schulz,Bronze,2022-12-06,Hamburg,North,SmallBusiness,Paid Search
+2032,Jonas Weber,Bronze,2022-10-21,Leipzig,East,Consumer,Paid Search
+2033,Mia Braun,Bronze,2023-07-27,Berlin,North,Enterprise,Walk-in
+2034,Noah Becker,Bronze,2023-06-26,Berlin,North,Consumer,Paid Search
+2035,Anna Kruger,Platinum,2022-06-05,Berlin,North,SmallBusiness,Organic
+2036,Finn Wagner,Bronze,2022-05-29,Berlin,North,Consumer,Organic
+2037,Emma Schmidt,Silver,2022-09-20,Munich,South,Enterprise,Social
+2038,Ben Koch,Platinum,2022-11-08,Dresden,East,Consumer,Referral
+2039,Sophia Fischer,Silver,2022-05-06,Stuttgart,South,SmallBusiness,Social
+2040,Paul Richter,Bronze,2024-01-19,Stuttgart,South,Consumer,Walk-in
+2041,Lea Hoffmann,Bronze,2022-06-26,Stuttgart,South,Enterprise,Referral
+2042,Luis Meyer,Gold,2023-02-23,Leipzig,East,Consumer,Walk-in
+2043,Eva Schulz,Silver,2022-11-12,Berlin,North,Enterprise,Social
+2044,Max Weber,Platinum,2025-03-13,Hamburg,North,SmallBusiness,Social
+2045,Nora Braun,Silver,2025-07-12,Munich,South,Enterprise,Walk-in
+2046,Felix Becker,Silver,2024-07-11,Hamburg,North,Consumer,Referral
+2047,Lara Kruger,Silver,2024-09-23,Dusseldorf,West,Enterprise,Walk-in
+2048,Elias Wagner,Bronze,2023-06-23,Dresden,East,Enterprise,Social
+2049,Hannah Schmidt,Bronze,2022-05-31,Dusseldorf,West,Consumer,Social
+2050,Leon Koch,Platinum,2024-11-07,Leipzig,East,Enterprise,Walk-in
+2051,Marie Fischer,Gold,2025-05-15,Dusseldorf,West,SmallBusiness,Social
+2052,Theo Richter,Silver,2024-06-24,Cologne,West,Consumer,Referral
+2053,Amira Hoffmann,Bronze,2022-03-21,Stuttgart,South,Consumer,Referral
+2054,David Meyer,Gold,2022-08-27,Cologne,West,Consumer,Paid Search
+2055,Laura Schulz,Bronze,2024-08-04,Frankfurt,West,Consumer,Paid Search
+2056,Oskar Weber,Platinum,2024-04-10,Dusseldorf,West,Consumer,Organic
+2057,Selina Braun,Gold,2025-07-25,Dusseldorf,West,SmallBusiness,Social
+2058,Emil Becker,Platinum,2023-01-14,Dresden,East,Enterprise,Referral
+2059,Clara Kruger,Silver,2022-03-06,Stuttgart,South,Enterprise,Social
+2060,Adrian Wagner,Silver,2025-03-10,Bremen,North,Enterprise,Paid Search
+2061,Lena Weber,Silver,2022-01-25,Bremen,North,Consumer,Referral
+2062,Jonas Braun,Silver,2023-12-08,Frankfurt,West,Enterprise,Organic
+2063,Mia Becker,Bronze,2022-06-22,Dusseldorf,West,Consumer,Paid Search
+2064,Noah Kruger,Silver,2023-12-31,Frankfurt,West,Enterprise,Paid Search
+2065,Anna Wagner,Bronze,2022-07-16,Dusseldorf,West,SmallBusiness,Organic
+2066,Finn Schmidt,Bronze,2024-04-12,Bremen,North,SmallBusiness,Paid Search
+2067,Emma Koch,Silver,2024-03-13,Leipzig,East,SmallBusiness,Social
+2068,Ben Fischer,Silver,2023-10-31,Frankfurt,West,Consumer,Social
+2069,Sophia Richter,Platinum,2025-05-14,Stuttgart,South,Consumer,Social
+2070,Paul Hoffmann,Bronze,2023-05-07,Dresden,East,SmallBusiness,Organic
+2071,Lea Meyer,Bronze,2024-04-29,Frankfurt,West,SmallBusiness,Walk-in
+2072,Luis Schulz,Silver,2024-09-13,Cologne,West,SmallBusiness,Walk-in
+2073,Eva Weber,Silver,2024-08-13,Berlin,North,SmallBusiness,Referral
+2074,Max Braun,Gold,2024-06-11,Bremen,North,Enterprise,Social
+2075,Nora Becker,Silver,2023-06-03,Leipzig,East,SmallBusiness,Walk-in
+2076,Felix Kruger,Platinum,2022-09-09,Berlin,North,SmallBusiness,Organic
+2077,Lara Wagner,Platinum,2023-06-11,Bremen,North,Enterprise,Paid Search
+2078,Elias Schmidt,Gold,2022-07-22,Cologne,West,Enterprise,Organic
+2079,Hannah Koch,Bronze,2022-02-07,Bremen,North,Consumer,Organic
+2080,Leon Fischer,Gold,2023-11-12,Leipzig,East,Enterprise,Referral
+2081,Marie Richter,Gold,2022-08-23,Dresden,East,Enterprise,Walk-in
+2082,Theo Hoffmann,Silver,2022-03-05,Dusseldorf,West,Consumer,Social
+2083,Amira Meyer,Bronze,2025-07-28,Munich,South,Consumer,Walk-in
+2084,David Schulz,Bronze,2024-11-01,Dresden,East,Enterprise,Paid Search
+2085,Laura Weber,Silver,2025-01-23,Bremen,North,SmallBusiness,Social
+2086,Oskar Braun,Gold,2023-08-07,Bremen,North,SmallBusiness,Paid Search
+2087,Selina Becker,Silver,2022-09-03,Munich,South,Consumer,Organic
+2088,Emil Kruger,Silver,2024-07-31,Bremen,North,SmallBusiness,Paid Search
+2089,Clara Wagner,Bronze,2025-05-07,Bremen,North,Consumer,Social
+2090,Adrian Schmidt,Bronze,2024-04-26,Dresden,East,Consumer,Referral
+2091,Lena Braun,Gold,2025-06-19,Bremen,North,Enterprise,Paid Search
+2092,Jonas Becker,Silver,2022-08-14,Dresden,East,Consumer,Organic
+2093,Mia Kruger,Bronze,2022-01-04,Cologne,West,SmallBusiness,Referral
+2094,Noah Wagner,Bronze,2023-01-28,Dusseldorf,West,SmallBusiness,Organic
+2095,Anna Schmidt,Silver,2025-06-20,Stuttgart,South,Enterprise,Organic
+2096,Finn Koch,Gold,2024-05-08,Cologne,West,SmallBusiness,Social
+2097,Emma Fischer,Silver,2024-11-16,Dresden,East,Consumer,Referral
+2098,Ben Richter,Gold,2023-11-28,Dusseldorf,West,SmallBusiness,Paid Search
+2099,Sophia Hoffmann,Platinum,2023-02-28,Hamburg,North,SmallBusiness,Walk-in
+2100,Paul Meyer,Silver,2025-06-25,Hamburg,North,Consumer,Paid Search
+2101,Lea Schulz,Platinum,2023-05-28,Hamburg,North,Enterprise,Social
+2102,Luis Weber,Bronze,2024-01-14,Dusseldorf,West,Enterprise,Walk-in
+2103,Eva Braun,Bronze,2022-08-19,Dusseldorf,West,Enterprise,Paid Search
+2104,Max Becker,Platinum,2025-05-22,Dresden,East,Enterprise,Organic
+2105,Nora Kruger,Bronze,2024-07-14,Munich,South,Consumer,Referral
+2106,Felix Wagner,Bronze,2024-11-01,Frankfurt,West,Enterprise,Paid Search
+2107,Lara Schmidt,Silver,2023-03-01,Stuttgart,South,Consumer,Organic
+2108,Elias Koch,Bronze,2025-06-23,Munich,South,Consumer,Walk-in
+2109,Hannah Fischer,Silver,2024-05-01,Cologne,West,SmallBusiness,Paid Search
+2110,Leon Richter,Bronze,2024-09-20,Bremen,North,Consumer,Social
+2111,Marie Hoffmann,Silver,2024-02-28,Stuttgart,South,Consumer,Paid Search
+2112,Theo Meyer,Silver,2025-07-08,Leipzig,East,Consumer,Organic
+2113,Amira Schulz,Platinum,2024-11-06,Hamburg,North,SmallBusiness,Organic
+2114,David Weber,Bronze,2022-03-06,Munich,South,Enterprise,Walk-in
+2115,Laura Braun,Bronze,2023-11-15,Stuttgart,South,Enterprise,Paid Search
+2116,Oskar Becker,Silver,2024-02-16,Berlin,North,Enterprise,Organic
+2117,Selina Kruger,Gold,2024-05-16,Bremen,North,Enterprise,Walk-in
+2118,Emil Wagner,Platinum,2022-09-16,Dusseldorf,West,Enterprise,Referral
+2119,Clara Schmidt,Gold,2024-04-21,Leipzig,East,Consumer,Social
+2120,Adrian Koch,Silver,2023-12-17,Leipzig,East,Consumer,Social
+2121,Lena Becker,Gold,2023-07-23,Berlin,North,SmallBusiness,Referral
+2122,Jonas Kruger,Bronze,2025-02-17,Leipzig,East,Consumer,Paid Search
+2123,Mia Wagner,Silver,2025-03-09,Stuttgart,South,Consumer,Walk-in
+2124,Noah Schmidt,Silver,2025-02-05,Munich,South,Consumer,Paid Search
+2125,Anna Koch,Gold,2025-02-25,Munich,South,Consumer,Walk-in
+2126,Finn Fischer,Silver,2022-04-02,Dresden,East,Consumer,Organic
+2127,Emma Richter,Silver,2023-05-27,Dusseldorf,West,Consumer,Referral
+2128,Ben Hoffmann,Gold,2024-08-18,Berlin,North,SmallBusiness,Paid Search
+2129,Sophia Meyer,Bronze,2023-04-06,Stuttgart,South,Enterprise,Walk-in
+2130,Paul Schulz,Silver,2024-03-04,Frankfurt,West,Consumer,Referral
+2131,Lea Weber,Platinum,2022-03-28,Hamburg,North,Enterprise,Walk-in
+2132,Luis Braun,Bronze,2023-07-01,Dusseldorf,West,Consumer,Organic
+2133,Eva Becker,Silver,2024-12-05,Frankfurt,West,Enterprise,Walk-in
+2134,Max Kruger,Platinum,2022-09-28,Hamburg,North,SmallBusiness,Walk-in
+2135,Nora Wagner,Gold,2022-10-03,Cologne,West,Enterprise,Walk-in
+2136,Felix Schmidt,Platinum,2024-03-09,Bremen,North,Consumer,Social
+2137,Lara Koch,Bronze,2023-06-19,Munich,South,Consumer,Organic
+2138,Elias Fischer,Platinum,2022-07-26,Dusseldorf,West,Enterprise,Referral
+2139,Hannah Richter,Bronze,2022-08-30,Hamburg,North,Consumer,Social
+2140,Leon Hoffmann,Bronze,2023-04-20,Cologne,West,Consumer,Walk-in
+2141,Marie Meyer,Silver,2023-10-01,Hamburg,North,Consumer,Referral
+2142,Theo Schulz,Gold,2022-11-01,Stuttgart,South,Enterprise,Organic
+2143,Amira Weber,Gold,2025-05-23,Munich,South,Consumer,Organic
+2144,David Braun,Gold,2024-07-08,Leipzig,East,SmallBusiness,Referral
+2145,Laura Becker,Bronze,2023-03-18,Munich,South,Enterprise,Referral
+2146,Oskar Kruger,Silver,2023-11-04,Leipzig,East,Consumer,Referral
+2147,Selina Wagner,Bronze,2022-01-27,Cologne,West,Consumer,Organic
+2148,Emil Schmidt,Gold,2024-11-25,Frankfurt,West,SmallBusiness,Walk-in
+2149,Clara Koch,Platinum,2022-03-05,Bremen,North,Consumer,Referral
+2150,Adrian Fischer,Bronze,2025-04-07,Bremen,North,SmallBusiness,Referral
+2151,Lena Kruger,Gold,2023-04-20,Berlin,North,SmallBusiness,Walk-in
+2152,Jonas Wagner,Gold,2025-02-06,Dresden,East,Consumer,Organic
+2153,Mia Schmidt,Platinum,2025-04-08,Frankfurt,West,Consumer,Paid Search
+2154,Noah Koch,Gold,2025-01-27,Hamburg,North,Consumer,Walk-in
+2155,Anna Fischer,Platinum,2023-01-12,Berlin,North,SmallBusiness,Social
+2156,Finn Richter,Silver,2024-07-14,Leipzig,East,Enterprise,Organic
+2157,Emma Hoffmann,Silver,2025-01-09,Munich,South,Enterprise,Organic
+2158,Ben Meyer,Silver,2022-08-26,Munich,South,Enterprise,Paid Search
+2159,Sophia Schulz,Bronze,2022-02-23,Munich,South,SmallBusiness,Referral
+2160,Paul Weber,Platinum,2024-02-19,Hamburg,North,SmallBusiness,Walk-in
+2161,Lea Braun,Bronze,2023-08-08,Bremen,North,SmallBusiness,Paid Search
+2162,Luis Becker,Silver,2023-11-13,Hamburg,North,Consumer,Paid Search
+2163,Eva Kruger,Gold,2022-09-18,Munich,South,SmallBusiness,Walk-in
+2164,Max Wagner,Silver,2023-05-12,Frankfurt,West,Enterprise,Walk-in
+2165,Nora Schmidt,Platinum,2025-04-26,Dresden,East,Enterprise,Paid Search
+2166,Felix Koch,Silver,2022-05-31,Dusseldorf,West,Consumer,Walk-in
+2167,Lara Fischer,Bronze,2024-09-08,Berlin,North,Consumer,Organic
+2168,Elias Richter,Bronze,2023-09-01,Munich,South,Consumer,Social
+2169,Hannah Hoffmann,Bronze,2024-10-15,Leipzig,East,Enterprise,Social
+2170,Leon Meyer,Bronze,2023-12-02,Berlin,North,Consumer,Organic

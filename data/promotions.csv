@@ -1,0 +1,19 @@
+promotion_id,promo_code,campaign_name,eligible_category,discount_pct,start_date,end_date,channel
+301,ELE01,Electronics Campaign 1,Electronics,20,2025-01-01,2025-03-18,Mobile App
+302,HOM02,Home Campaign 2,Home,25,2025-02-01,2025-03-31,Online
+303,FAS03,Fashion Campaign 3,Fashion,25,2025-03-04,2025-05-09,In-Store
+304,SPO04,Sports Campaign 4,Sports,15,2025-04-04,2025-06-15,ALL
+305,BEA05,Beauty Campaign 5,Beauty,15,2025-05-05,2025-07-11,ALL
+306,OFF06,Office Campaign 6,Office,5,2025-06-05,2025-10-07,Online
+307,ELE07,Electronics Campaign 7,Electronics,12,2025-07-06,2025-10-22,Online
+308,HOM08,Home Campaign 8,Home,15,2025-08-06,2025-11-12,Mobile App
+309,FAS09,Fashion Campaign 9,Fashion,12,2025-09-06,2025-11-17,In-Store
+310,SPO10,Sports Campaign 10,Sports,5,2025-10-07,2025-12-25,Mobile App
+311,BEA11,Beauty Campaign 11,Beauty,5,2025-11-07,2026-01-07,Mobile App
+312,OFF12,Office Campaign 12,Office,10,2025-12-08,2026-04-10,ALL
+313,ELE13,Electronics Campaign 13,Electronics,15,2026-01-08,2026-03-26,In-Store
+314,HOM14,Home Campaign 14,Home,20,2026-02-08,2026-06-04,Online
+315,FAS15,Fashion Campaign 15,Fashion,25,2026-03-11,2026-05-02,Online
+316,SPO16,Sports Campaign 16,Sports,25,2026-04-11,2026-06-02,Mobile App
+317,BEA17,Beauty Campaign 17,Beauty,12,2026-05-12,2026-09-02,Online
+318,OFF18,Office Campaign 18,Office,10,2026-06-12,2026-08-16,Mobile App

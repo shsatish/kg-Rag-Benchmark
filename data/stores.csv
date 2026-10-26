@@ -1,0 +1,11 @@
+store_id,store_name,region,city,store_format,opened_date,store_status
+101,Berlin Central,North,Berlin,Outlet,2023-08-04,ACTIVE
+102,Hamburg Harbor,North,Hamburg,Outlet,2021-03-04,ACTIVE
+103,Munich South,South,Munich,Flagship,2022-04-04,ACTIVE
+104,Frankfurt City,West,Frankfurt,Flagship,2023-05-04,ACTIVE
+105,Cologne West,West,Cologne,Standard,2021-06-04,ACTIVE
+106,Stuttgart Hub,South,Stuttgart,Standard,2022-07-04,ACTIVE
+107,Dresden East,East,Dresden,Standard,2023-08-04,ACTIVE
+108,Leipzig Center,East,Leipzig,Outlet,2021-03-04,ACTIVE
+109,Bremen North,North,Bremen,Flagship,2022-04-04,ACTIVE
+110,Dusseldorf Riverside,West,Dusseldorf,Outlet,2023-05-04,ACTIVE

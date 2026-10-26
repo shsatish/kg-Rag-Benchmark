@@ -1,0 +1,79 @@
+product_id,sku,product_name,category,brand,supplier_id,list_price,unit_cost,reorder_level,active
+501,SKU-ELE-001,Nord Wireless Headphones 1,Electronics,Nord,214,116.29,52.50,75,true
+502,SKU-HOM-002,Aster Air Purifier 1,Home,Aster,205,212.63,117.19,77,true
+503,SKU-FAS-003,Metro Winter Jacket 1,Fashion,Metro,208,127.95,75.38,78,true
+504,SKU-SPO-004,Nova Yoga Mat 1,Sports,Nova,201,309.61,146.07,67,true
+505,SKU-BEA-005,Vista Skin Care Kit 1,Beauty,Vista,212,87.22,41.76,69,true
+506,SKU-OFF-006,Urban Ergonomic Chair 1,Office,Urban,212,118.46,53.29,65,true
+507,SKU-ELE-007,Peak Tablet 1,Electronics,Peak,202,153.58,105.42,68,true
+508,SKU-HOM-008,Luma Coffee Maker 1,Home,Luma,211,227.25,165.20,80,true
+509,SKU-FAS-009,Cedar Sneakers 1,Fashion,Cedar,201,128.42,70.89,67,true
+510,SKU-SPO-010,Primo Dumbbell Set 1,Sports,Primo,205,42.29,28.56,75,true
+511,SKU-BEA-011,Nord Hair Dryer 1,Beauty,Nord,211,186.19,118.29,76,true
+512,SKU-OFF-012,Aster Desk Organizer 1,Office,Aster,209,31.76,21.51,73,true
+513,SKU-ELE-013,Metro Bluetooth Speaker 1,Electronics,Metro,202,211.68,155.85,85,true
+514,SKU-HOM-014,Nova Table Lamp 1,Home,Nova,207,15.59,10.38,84,true
+515,SKU-FAS-015,Vista Backpack 1,Fashion,Vista,209,185.38,98.71,86,true
+516,SKU-SPO-016,Urban Tennis Racket 1,Sports,Urban,214,75.08,32.04,86,true
+517,SKU-BEA-017,Peak Face Cream 1,Beauty,Peak,213,174.07,96.87,65,true
+518,SKU-OFF-018,Luma Monitor Arm 1,Office,Luma,201,223.64,125.35,69,true
+519,SKU-ELE-019,Cedar Fitness Watch 1,Electronics,Cedar,203,62.88,34.58,85,true
+520,SKU-HOM-020,Primo Storage Rack 1,Home,Primo,206,282.89,137.15,75,true
+521,SKU-FAS-021,Nord Running Shirt 1,Fashion,Nord,205,291.60,125.59,73,true
+522,SKU-SPO-022,Aster Cycling Helmet 1,Sports,Aster,213,150.59,83.50,74,true
+523,SKU-BEA-023,Metro Electric Trimmer 1,Beauty,Metro,212,138.70,57.23,73,true
+524,SKU-OFF-024,Nova Keyboard 1,Office,Nova,208,186.78,86.13,87,true
+525,SKU-ELE-025,Vista Webcam 1,Electronics,Vista,211,53.85,34.55,74,true
+526,SKU-HOM-026,Urban Vacuum Cleaner 1,Home,Urban,213,333.74,137.03,85,true
+527,SKU-FAS-027,Peak Scarf 1,Fashion,Peak,214,28.43,19.04,90,true
+528,SKU-SPO-028,Luma Football 1,Sports,Luma,207,43.34,19.18,85,true
+529,SKU-BEA-029,Cedar Perfume 1,Beauty,Cedar,206,321.76,161.15,84,true
+530,SKU-OFF-030,Primo Office Lamp 1,Office,Primo,211,132.71,57.57,89,true
+531,SKU-ELE-031,Nord Wireless Headphones 2,Electronics,Nord,214,129.25,53.07,86,true
+532,SKU-HOM-032,Aster Air Purifier 2,Home,Aster,213,67.54,32.36,86,true
+533,SKU-FAS-033,Metro Winter Jacket 2,Fashion,Metro,206,352.88,152.67,83,true
+534,SKU-SPO-034,Nova Yoga Mat 2,Sports,Nova,207,81.49,55.55,83,true
+535,SKU-BEA-035,Vista Skin Care Kit 2,Beauty,Vista,203,241.67,104.26,81,true
+536,SKU-OFF-036,Urban Ergonomic Chair 2,Office,Urban,209,30.73,16.20,75,true
+537,SKU-ELE-037,Peak Tablet 2,Electronics,Peak,201,218.43,98.91,69,true
+538,SKU-HOM-038,Luma Coffee Maker 2,Home,Luma,201,214.67,120.57,67,true
+539,SKU-FAS-039,Cedar Sneakers 2,Fashion,Cedar,210,52.09,28.30,70,true
+540,SKU-SPO-040,Primo Dumbbell Set 2,Sports,Primo,202,82.98,53.44,83,true
+541,SKU-BEA-041,Nord Hair Dryer 2,Beauty,Nord,209,278.78,163.38,88,true
+542,SKU-OFF-042,Aster Desk Organizer 2,Office,Aster,206,237.79,157.12,74,true
+543,SKU-ELE-043,Metro Bluetooth Speaker 2,Electronics,Metro,206,326.22,163.32,74,true
+544,SKU-HOM-044,Nova Table Lamp 2,Home,Nova,206,96.63,47.78,86,true
+545,SKU-FAS-045,Vista Backpack 2,Fashion,Vista,202,21.66,14.42,75,true
+546,SKU-SPO-046,Urban Tennis Racket 2,Sports,Urban,205,148.86,82.01,87,true
+547,SKU-BEA-047,Peak Face Cream 2,Beauty,Peak,211,120.40,49.30,86,true
+548,SKU-OFF-048,Luma Monitor Arm 2,Office,Luma,209,116.65,74.06,88,true
+549,SKU-ELE-049,Cedar Fitness Watch 2,Electronics,Cedar,208,223.06,126.91,82,true
+550,SKU-HOM-050,Primo Storage Rack 2,Home,Primo,211,277.64,159.29,85,true
+551,SKU-FAS-051,Nord Running Shirt 2,Fashion,Nord,214,162.72,67.53,68,true
+552,SKU-SPO-052,Aster Cycling Helmet 2,Sports,Aster,214,32.37,23.33,69,true
+553,SKU-BEA-053,Metro Electric Trimmer 2,Beauty,Metro,208,170.92,113.02,80,true
+554,SKU-OFF-054,Nova Keyboard 2,Office,Nova,208,381.76,158.45,88,true
+555,SKU-ELE-055,Vista Webcam 2,Electronics,Vista,203,200.49,140.34,70,true
+556,SKU-HOM-056,Urban Vacuum Cleaner 2,Home,Urban,207,172.99,74.22,76,true
+557,SKU-FAS-057,Peak Scarf 2,Fashion,Peak,202,250.86,125.49,86,true
+558,SKU-SPO-058,Luma Football 2,Sports,Luma,206,211.67,99.08,77,true
+559,SKU-BEA-059,Cedar Perfume 2,Beauty,Cedar,207,92.34,65.68,90,true
+560,SKU-OFF-060,Primo Office Lamp 2,Office,Primo,202,45.07,20.19,82,true
+561,SKU-ELE-061,Nord Wireless Headphones 3,Electronics,Nord,201,134.11,55.91,66,true
+562,SKU-HOM-062,Aster Air Purifier 3,Home,Aster,213,265.18,160.88,87,true
+563,SKU-FAS-063,Metro Winter Jacket 3,Fashion,Metro,201,375.43,164.11,82,true
+564,SKU-SPO-064,Nova Yoga Mat 3,Sports,Nova,206,239.30,142.84,79,true
+565,SKU-BEA-065,Vista Skin Care Kit 3,Beauty,Vista,204,39.91,17.04,77,true
+566,SKU-OFF-066,Urban Ergonomic Chair 3,Office,Urban,204,253.95,157.71,65,true
+567,SKU-ELE-067,Peak Tablet 3,Electronics,Peak,205,214.90,92.25,80,true
+568,SKU-HOM-068,Luma Coffee Maker 3,Home,Luma,203,96.93,39.92,67,true
+569,SKU-FAS-069,Cedar Sneakers 3,Fashion,Cedar,210,103.64,70.15,88,true
+570,SKU-SPO-070,Primo Dumbbell Set 3,Sports,Primo,211,266.62,139.32,70,true
+571,SKU-BEA-071,Nord Hair Dryer 3,Beauty,Nord,210,317.90,143.49,78,true
+572,SKU-OFF-072,Aster Desk Organizer 3,Office,Aster,208,147.33,80.43,87,true
+573,SKU-ELE-073,Metro Bluetooth Speaker 3,Electronics,Metro,207,187.67,98.89,76,true
+574,SKU-HOM-074,Nova Table Lamp 3,Home,Nova,202,218.97,117.24,66,true
+575,SKU-FAS-075,Vista Backpack 3,Fashion,Vista,203,187.58,109.34,82,true
+576,SKU-SPO-076,Urban Tennis Racket 3,Sports,Urban,210,328.36,136.00,84,true
+577,SKU-BEA-077,Peak Face Cream 3,Beauty,Peak,209,58.14,35.67,76,true
+578,SKU-OFF-078,Luma Monitor Arm 3,Office,Luma,207,234.34,117.49,72,true

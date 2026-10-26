@@ -1,0 +1,15 @@
+supplier_id,supplier_name,supplier_country,lead_time_days,supplier_rating,preferred_supplier
+201,NordTech Supply,Netherlands,5,3.13,false
+202,EuroHome Partners,Germany,14,3.54,true
+203,PeakSports Wholesale,Germany,5,3.39,true
+204,UrbanStyle Group,France,21,4.64,false
+205,DailyLiving Trade,Netherlands,21,3.47,true
+206,BrightOffice Ltd,Poland,21,3.89,true
+207,EcoWare Distribution,Germany,10,4.72,false
+208,Prime Audio,Germany,5,4.82,true
+209,FreshFit Supplies,France,21,4.67,true
+210,Metro Furnishings,France,5,4.06,false
+211,ValueElectronics,France,21,4.17,true
+212,Westland Imports,Netherlands,7,3.43,true
+213,CloudNine Goods,Germany,21,3.54,false
+214,BluePeak Sourcing,Italy,14,4.61,true
