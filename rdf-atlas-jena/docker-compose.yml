@@ -1,0 +1,23 @@
+services:
+  fuseki:
+    image: stain/jena-fuseki:latest
+    environment:
+      ADMIN_PASSWORD: ${FUSEKI_ADMIN_PASSWORD:-change-me-local-only}
+    ports:
+      - "127.0.0.1:3030:3030"
+    volumes:
+      - fuseki_data:/fuseki
+    restart: unless-stopped
+
+  explorer:
+    build: ./explorer
+    environment:
+      FUSEKI_QUERY_URL: http://fuseki:3030/${FUSEKI_DATASET:-kg}/query
+    ports:
+      - "127.0.0.1:8080:8080"
+    depends_on:
+      - fuseki
+    restart: unless-stopped
+
+volumes:
+  fuseki_data:
